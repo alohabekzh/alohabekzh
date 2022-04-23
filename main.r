@@ -1,1 +1,1 @@
-print("Bekzhan is kotak")
+print("Bekzhan is SEWY")
